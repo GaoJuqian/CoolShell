@@ -1,8 +1,6 @@
 - [github仓库地址](https://github.com/GaoJuqian/CoolShell)
 
-- [预览地址](https://gaojuqian.github.io/CoolShell)
-
-- 链接 [https://gaojuqian.github.io/CoolShell/coolshell.cn/index.html](https://gaojuqian.github.io/CoolShell/coolshell.cn/index.html)
+- 预览地址  [https://gaojuqian.github.io/CoolShell/coolshell.cn/index.html](https://gaojuqian.github.io/CoolShell/coolshell.cn/index.html)
 
 ---
 
