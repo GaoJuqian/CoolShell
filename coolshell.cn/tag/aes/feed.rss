@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AES | 酷 壳 - CoolShell</title>
+	<atom:link href="https://coolshell.cn/tag/aes/feed" rel="self" type="application/rss+xml" />
+	<link>https://coolshell.cn</link>
+	<description>享受编程和技术所带来的快乐 - Coding Your Ambition</description>
+	<lastBuildDate>Tue, 12 Oct 2010 11:07:56 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>AES加密算法动画演示</title>
+		<link>https://coolshell.cn/articles/3161.html</link>
+					<comments>https://coolshell.cn/articles/3161.html#comments</comments>
+		
+		<dc:creator><![CDATA[陈皓]]></dc:creator>
+		<pubDate>Fri, 15 Oct 2010 02:13:00 +0000</pubDate>
+				<category><![CDATA[技术新闻]]></category>
+		<category><![CDATA[杂项资源]]></category>
+		<category><![CDATA[程序设计]]></category>
+		<category><![CDATA[AES]]></category>
+		<guid isPermaLink="false">http://coolshell.cn/?p=3161</guid>
+
+					<description><![CDATA[<p>波士顿大学的Howard Straubing做了这么一个动画来展示AES加密算法的演示，挺不错的。 点击这里看全屏 （转载本站文章请注明作者和出处 酷 壳 &#...</p>
+<p class="read-more"><a class="btn btn-default" href="https://coolshell.cn/articles/3161.html"> Read More<span class="screen-reader-text">  Read More</span></a></p>
+The post <a href="https://coolshell.cn/articles/3161.html">AES加密算法动画演示</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></description>
+										<content:encoded><![CDATA[<p><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3415450859608158"
+     crossorigin="anonymous"></script>波士顿大学的<a href="http://www.cs.bc.edu/~straubin/" target=_blank>Howard Straubing</a>做了这么一个动画来展示AES加密算法的演示，挺不错的。</p>
+<p><embed type="application/x-shockwave-flash" width="680" height="400" src="https://coolshell.cn/wp-content/uploads/2010/10/rijndael_ingles2004.swf" quality="high" align="middle"></embed></p>
+<p><center><br />
+<a href="https://coolshell.cn/wp-content/uploads/2010/10/rijndael_ingles2004.swf" target=_blank>点击这里看全屏</a><br />
+</center><!--
+
+
+
+<p align="center"><a href= target=_blank><img decoding="async" src=""></a></p>
+
+
+
+
+
+<p align="center"><img decoding="async" src="https://coolshell.cn/wp-content/uploads/2020/03/coolshell.weixin.jpg"> <img decoding="async" loading="lazy" src="https://coolshell.cn/wp-content/uploads/2020/03/coolshell.mini_.jpg" width="300" height="300"> <br />关注CoolShell微信公众账号和微信小程序</p>
+
+ 
+
+--></p>
+<div style="margin-top: 15px; font-size: 16px;color: #cc0000;">
+<p align="center"><strong>（转载本站文章请注明作者和出处 <a href="https://coolshell.cn/">酷 壳 &#8211; CoolShell</a> ，请勿用于任何商业用途）</strong></p>
+</div>
+
+<div class="wp_rp_wrap  wp_rp_vertical_m" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">相关文章</h3><ul class="related_post wp_rp"><li ><a href="https://coolshell.cn/articles/1837.html" class="wp_rp_thumbnail"><img src="https://coolshell.cn/wp-content/uploads/2009/11/eclim-150x150.png" alt="Eclipse 和 Vim" width="150" height="150" /></a><a href="https://coolshell.cn/articles/1837.html" class="wp_rp_title">Eclipse 和 Vim</a></li><li ><a href="https://coolshell.cn/articles/4077.html" class="wp_rp_thumbnail"><img src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/7.jpg" alt="纯文本配置还是注册表" width="150" height="150" /></a><a href="https://coolshell.cn/articles/4077.html" class="wp_rp_title">纯文本配置还是注册表</a></li><li ><a href="https://coolshell.cn/articles/1932.html" class="wp_rp_thumbnail"><img src="https://coolshell.cn/wp-content/uploads/2009/12/scroll_timer-300x162-1-150x150.jpg" alt="哥是玩程序的" width="150" height="150" /></a><a href="https://coolshell.cn/articles/1932.html" class="wp_rp_title">哥是玩程序的</a></li><li ><a href="https://coolshell.cn/articles/1788.html" class="wp_rp_thumbnail"><img src="https://coolshell.cn/wp-content/uploads/2009/11/govsgnuc-150x150.jpg" alt="程序语言性能比拼" width="150" height="150" /></a><a href="https://coolshell.cn/articles/1788.html" class="wp_rp_title">程序语言性能比拼</a></li><li ><a href="https://coolshell.cn/articles/1443.html" class="wp_rp_thumbnail"><img src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/13.jpg" alt="C++的std::string的“读时也拷贝”技术！" width="150" height="150" /></a><a href="https://coolshell.cn/articles/1443.html" class="wp_rp_title">C++的std::string的“读时也拷贝”技术！</a></li><li ><a href="https://coolshell.cn/articles/3258.html" class="wp_rp_thumbnail"><img src="https://coolshell.cn/wp-content/plugins/wordpress-23-related-posts-plugin/static/thumbs/3.jpg" alt="C++的字符串格式化库" width="150" height="150" /></a><a href="https://coolshell.cn/articles/3258.html" class="wp_rp_title">C++的字符串格式化库</a></li></ul></div></div>The post <a href="https://coolshell.cn/articles/3161.html">AES加密算法动画演示</a> first appeared on <a href="https://coolshell.cn">酷 壳 - CoolShell</a>.]]></content:encoded>
+					
+					<wfw:commentRss>https://coolshell.cn/articles/3161.html/feed</wfw:commentRss>
+			<slash:comments>16</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
